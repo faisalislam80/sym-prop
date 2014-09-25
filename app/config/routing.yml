@@ -1,0 +1,5 @@
+royal_prop:
+    resource: "@RoyalPropBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
